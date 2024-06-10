@@ -21,4 +21,4 @@ Before my PhD, I have also had the chance to work more closely on applications i
 
 I am particularly interested in expanding my expertise on generative models and gaining a more profound understanding of their workings, my motivation being a mix of pure curiosity and my goal of applying them to aid experimental sciences.
 
-Here is [my CV](). For more details, feel free to contact me at julia.linhart@inria.fr .
+Here is [my CV](/files/Resume_Linhart.pdf). For more details, feel free to contact me at julia.linhart@inria.fr .
