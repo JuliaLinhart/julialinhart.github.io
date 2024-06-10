@@ -27,7 +27,7 @@ Here is [my CV](/files/Resume_Linhart.pdf). For more details, feel free to conta
 
 ## Funding and scholarships
 
-My PhD project is part of the doctoral school [ED STIC](https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-et-technologies-de-linformation-et-de-la-communication-stic) at Université Paris-Saclay. As first-placed candidate of my year, I am recipient of the *Pierre-Aguilar Scholarship* of the [Capital Fund Management (CFM)](https://www.fondation-cfm.org/).
+My PhD project is part of the doctoral school [ED STIC](https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-et-technologies-de-linformation-et-de-la-communication-stic) at Université Paris-Saclay. As first-placed candidate, I am recipient of the *Pierre-Aguilar Scholarship* of the [Capital Fund Management (CFM)](https://www.fondation-cfm.org/).
 
 ## References
 
