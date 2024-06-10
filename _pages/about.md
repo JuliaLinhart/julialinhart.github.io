@@ -25,7 +25,7 @@ Here is [my CV](/files/Resume_Linhart.pdf). For more details, feel free to conta
 - The exploration of novel **posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [[3]](https://arxiv.org/abs/2404.07593). This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) and [Gabriel V. Cardoso](https://gabrielvc.github.io/).
 
 
-## Funding and scholarships
+## Funding
 
 My PhD project is part of the doctoral school [ED STIC](https://www.universite-paris-saclay.fr/ecoles-doctorales/sciences-et-technologies-de-linformation-et-de-la-communication-stic) at Université Paris-Saclay. As first-placed candidate, I am recipient of the *Pierre-Aguilar Scholarship* of the [Capital Fund Management (CFM)](https://www.fondation-cfm.org/).
 
