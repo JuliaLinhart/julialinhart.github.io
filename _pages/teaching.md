@@ -11,8 +11,8 @@ redirect_from:
 
 ## 2023
 
-**PRB101: Introductions aux probabilités et aux statistiques**, Spring 2023, 13h.\
+**Introductions aux probabilités et aux statistiques (PRB101)**, Spring 2023, 13h.\
 *ENSTA Paris - Institut Polytechnique de Paris*, Teaching Assistant.
 
-**STA101: Introductions aux statistiques**, Spring 2023, 14h.\
+**Introductions aux statistiques (STA101)**, Spring 2023, 14h.\
 *ENSTA Paris - Institut Polytechnique de Paris*, Teaching Assistant.
