@@ -21,9 +21,9 @@ Here is [my CV](/files/Resume_Linhart.pdf). For more details, feel free to conta
 
 ## Main PhD projects and collaborations
 
-- Development of new **validation diagnostics for conditional deep generative models** [1, 2], with an integration to the official [`sbi`](https://github.com/sbi-dev/sbi) python package from the [MACKELAB](https://www.mackelab.org/).
+- Development of **new validation diagnostics for conditional deep generative models** [1, 2], with an integration to the official [`sbi`](https://github.com/sbi-dev/sbi) python package from the [MACKELAB](https://www.mackelab.org/).
 <!-- - A benchmark initiative for SBI algorithms in collaboration with the [MACKELAB](https://www.mackelab.org/) and Thomas Moreau. It combins the `sbibm` and `benchopt` packages, with the goal of standardized and maintained SBI methods, and an easy to use benchmark framework with open source code and reproducible results.-->
-- Exploration of novel **posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) and [Gabriel V. Cardoso](https://gabrielvc.github.io/). 
+- Exploration of **novel posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) and [Gabriel V. Cardoso](https://gabrielvc.github.io/). 
 <!-- Ongoing work with Marylou Gabrié and Louis Grenioux explores the use and combination of energy based models (EBMs) and normalizing flows for the sampling of highly structured posterior distributions. -->
 
 
