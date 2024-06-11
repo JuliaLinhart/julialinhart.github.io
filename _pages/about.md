@@ -21,8 +21,8 @@ Here is [my CV](/files/Resume_Linhart.pdf). For more details, feel free to conta
 
 ## Main PhD projects and collaborations
 
-- The development of new **validation diagnostics for conditional deep generative models** [[1]](https://arxiv.org/abs/2211.09602) [[2]](https://arxiv.org/abs/2306.03580), with an integration to the official [`sbi`](https://github.com/sbi-dev/sbi) python package. This work was done in collaboration with [Alexandre Gramfort](https://alexandre.gramfort.net/), [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/), [Gilles Louppe](https://glouppe.github.io/) and the [MACKELAB](https://www.mackelab.org/).
-- The exploration of novel **posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [[3]](https://arxiv.org/abs/2404.07593). This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) and [Gabriel V. Cardoso](https://gabrielvc.github.io/).
+- The development of new **validation diagnostics for conditional deep generative models** [1, 2], with an integration to the official [`sbi`](https://github.com/sbi-dev/sbi) python package. This work was done in collaboration with [Alexandre Gramfort](https://alexandre.gramfort.net/), [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/), [Gilles Louppe](https://glouppe.github.io/) and the [MACKELAB](https://www.mackelab.org/).
+- The exploration of novel **posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) and [Gabriel V. Cardoso](https://gabrielvc.github.io/).
 
 
 ## Funding
@@ -31,6 +31,6 @@ My PhD project is part of the [ED STIC](https://www.universite-paris-saclay.fr/e
 
 ## References
 
-[[1]](https://arxiv.org/abs/2211.09602) *Validation Diagnostics for SBI algorithms based on Normalizing Flows*, ML4PS Workshop, NeurIPS 2022.\
-[[2]](https://arxiv.org/abs/2306.03580) *L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference*, NeurIPS 2023.\
-[[3]](https://arxiv.org/abs/2404.07593) *Diffusion posterior sampling for simulation-based inference in tall data settings*, in proceedings, 2024.
+[1] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*Validation Diagnostics for SBI algorithms based on Normalizing Flows*](https://arxiv.org/abs/2211.09602), ML4PS Workshop, NeurIPS 2022.\
+[2] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference*](https://arxiv.org/abs/2306.03580), NeurIPS 2023.\
+[3] Julia Linhart, Gabriel V. Cardoso, Alexandre Gramfort, Sylvain Le Corff and Pedro L. C. Rodrigues, [*Diffusion posterior sampling for simulation-based inference in tall data settings*](https://arxiv.org/abs/2404.07593), Preprint, 2024.
