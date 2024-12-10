@@ -11,6 +11,8 @@ Hello!
 
 I am a PhD Student within the [MIND team](https://team.inria.fr/mind/) (former [Parietal](https://team.inria.fr/parietal/)) at INRIA Saclay, working under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/) on simulation-based inference (SBI) and generative modelling.
 
+**JUST DEFENDED (Dec 5, 2024): [link to video](https://www.youtube.com/watch?v=he1HbmhwGCw).**
+
 The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) to address **likelihood-free Bayesian inference** (a.k.a. LFI or [SBI](https://arxiv.org/abs/1911.01429)) tasks and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of efficiently inverting complex simulators from computational neuroscience and more generally to lift the remaining lack of trust for deep generative models to address important questions in experimental sciences. My main projects and collaborations are detailed below.
 
 Before my PhD, I have also had the chance to work more closely on applications in **Machine Learning for healthcare** at two different start-ups, [Covera Health](https://www.coverahealth.com/) in New York (uncertainty quantification of Deep Learning models on MRIs) and [Owkin](https://www.owkin.com/) in Paris (development of Deep Learning models for breast cancer survival analysis on histology images and their calibration).
