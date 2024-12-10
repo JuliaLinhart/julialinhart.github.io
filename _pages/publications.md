@@ -26,7 +26,7 @@ Julia Linhart, Alexandre Gramfort, Pedro L. C. Rodrigues\
 *In Advances in Neural Information Processing Systems (NeurIPS 2023).*\
 [paper](https://arxiv.org/pdf/2306.03580),
 [code](https://github.com/JuliaLinhart/lc2st),
-[tutorial](https://github.com/sbi-dev/sbi/blob/main/tutorials/18_diagnostics_lc2st.ipynb)
+[tutorial](https://github.com/sbi-dev/sbi/blob/main/tutorials/13_diagnostics_lc2st.ipynb)
 
 **Validation Diagnostics for SBI algorithms based on Normalizing Flows**\
 Julia Linhart, Alexandre Gramfort, Pedro L. C. Rodrigues\
