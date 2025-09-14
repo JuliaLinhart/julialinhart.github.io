@@ -41,11 +41,12 @@ Scaling simulation-based inference for cosmology, while deepening my expertise i
 I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.
 
 
-### Other & CV
+### Other 
 Before my PhD, I had the chance to work more closely on ML applications in **Medical Imaging** at two different start-ups, [Covera Health](https://www.coverahealth.com/) in New York (uncertainty quantification of Deep Learning models on MRIs) and [Owkin](https://www.owkin.com/) in Paris (development of Deep Learning models for breast cancer survival analysis on histology images and their calibration).
 
+### CV
 
-Here is [my CV](/files/Research_CV_Linhart.pdf). For more details, feel free to contact me at julia.linhart@inria.fr .
+Here is [my CV](/files/Research_CV_Linhart.pdf). For more details, feel free to contact me at julia.linhart@nyu.edu :)
 
 
 
