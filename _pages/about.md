@@ -25,7 +25,7 @@ My research focuses on **probabilistic machine learning**, **simulation-based in
 ## Research
 
 <!-- My research combines probabilistic machine learning and scientific applications, with a special focus on simulation-based inference and generative modeling.  -->
-The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) in **simulation-based inference** (SBI) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of inverting complex biophysical simulators - in neuroscience, astrophysics and beyond - and build greater trust in deep generative models as tools to address important questions in experimental sciences. 
+The primary focus of my research has been on the use of **deep generative models** (normalizing flows and diffusion models) in **simulation-based inference** (SBI). The goal is to develop methods for more accuracte, efficient and reliabile inference on complex biophysical simulators - in neuroscience, astrophysics and beyond. I wish to build greater trust in generative models - and AI in general - as tools to address important questions in science. 
 
 ### Current Directions
 Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned…
@@ -36,6 +36,7 @@ Scaling simulation-based inference for cosmology, while deepening my expertise i
 <!-- - A benchmark initiative for SBI algorithms in collaboration with the [MACKELAB](https://www.mackelab.org/) and Thomas Moreau. It combins the `sbibm` and `benchopt` packages, with the goal of standardized and maintained SBI methods, and an easy to use benchmark framework with open source code and reproducible results.-->
 - Exploration of **novel posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) (LPSM - Sorbonne Université) and [Gabriel V. Cardoso](https://gabrielvc.github.io/) (CMAP - École Polytechnique). 
 <!-- Ongoing work with Marylou Gabrié and Louis Grenioux explores the use and combination of energy based models (EBMs) and normalizing flows for the sampling of highly structured posterior distributions. -->
+- Application of SBI to neuroscience time series (EEG) data [4].
 
 ### Other 
 Before my PhD, I had the chance to work more closely on ML applications in **Medical Imaging** at two different start-ups, [Covera Health](https://www.coverahealth.com/) in New York (uncertainty quantification of Deep Learning models on MRIs) and [Owkin](https://www.owkin.com/) in Paris (development of Deep Learning models for breast cancer survival analysis on histology images and their calibration).
@@ -58,4 +59,6 @@ My PhD project is part of the [ED STIC](https://www.universite-paris-saclay.fr/e
 
 [1] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*Validation Diagnostics for SBI algorithms based on Normalizing Flows*](https://arxiv.org/abs/2211.09602), ML4PS Workshop, NeurIPS 2022.\
 [2] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference*](https://arxiv.org/abs/2306.03580), NeurIPS 2023.\
-[3] Julia Linhart, Gabriel V. Cardoso, Alexandre Gramfort, Sylvain Le Corff and Pedro L. C. Rodrigues, [*Diffusion posterior sampling for simulation-based inference in tall data settings*](https://arxiv.org/abs/2404.07593), Preprint, 2024.
+[3] Julia Linhart, Gabriel V. Cardoso, Alexandre Gramfort, Sylvain Le Corff and Pedro L. C. Rodrigues, [*Diffusion posterior sampling for simulation-based inference in tall data settings*](https://arxiv.org/abs/2404.07593), 2024.
+[4] Julia Linhart, Pedro L. C. Rodrigues, Thomas Moreau, Gilles Louppe, Alexandre Gramfort,
+[*Neural Posterior Estimation of hierarchical models in neuroscience*](https://hal.science/hal-03858828/file/Gretsi_2022_HNPE.pdf), Colloque GRETSI 2022.
