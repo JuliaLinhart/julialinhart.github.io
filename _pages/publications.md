@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">For a full list of publications, visit <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -14,6 +14,9 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+
+https://arxiv.org/abs/2508.12939
 
 **Diffusion posterior sampling for simulation-based inference in tall data settings**\
 Julia Linhart, Gabriel Victorino Cardoso, Alexandre Gramfort, Sylvain Le Corff, Pedro L. C. Rodrigues\

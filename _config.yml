@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_4565.JPG"
   name             : "Julia Linhart"
   pronouns         : # example: "she/her"
-  bio              : "3rd year PhD Student at INRIA Saclay - MIND."
-  location         : "Paris, France"
-  employer         : "INRIA, Université Paris-Saclay"
+  bio              : "Postoctoral Researcher at NYU Center for Data Science."
+  location         : "New York, NY, USA"
+  employer         : "New York University (NYU)"
   uri              : # URL
-  email            : "julia.linhart@inria.fr"
+  email            : "julia.linhart@nyu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
