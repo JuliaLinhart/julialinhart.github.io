@@ -25,7 +25,7 @@ My research focuses on **probabilistic machine learning**, **simulation-based in
 ## Research
 
 <!-- My research combines probabilistic machine learning and scientific applications, with a special focus on simulation-based inference and generative modeling.  -->
-The primary focus of my research has been on the use of **deep generative models** (normalizing flows and diffusion models) in **simulation-based inference** (SBI). The goal is to develop methods for more accuracte, efficient and reliabile inference on complex biophysical simulators - in neuroscience, astrophysics and beyond. I wish to build greater trust in generative models - and AI in general - as tools to address important questions in science. 
+The primary focus of my research has been on the use of **deep generative models** (normalizing flows and diffusion models) in **simulation-based inference** (SBI). The goal is to develop methods for more accuracte, efficient and reliabile inference on complex biophysical simulators - in neuroscience, astrophysics and beyond. Ultimately, my research seeks to build greater trust in AI as a tool for scientific discovery. 
 
 ### Current Directions
 Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned…
@@ -59,6 +59,6 @@ My PhD project is part of the [ED STIC](https://www.universite-paris-saclay.fr/e
 
 [1] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*Validation Diagnostics for SBI algorithms based on Normalizing Flows*](https://arxiv.org/abs/2211.09602), ML4PS Workshop, NeurIPS 2022.\
 [2] Julia Linhart, Alexandre Gramfort and Pedro L. C. Rodrigues, [*L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference*](https://arxiv.org/abs/2306.03580), NeurIPS 2023.\
-[3] Julia Linhart, Gabriel V. Cardoso, Alexandre Gramfort, Sylvain Le Corff and Pedro L. C. Rodrigues, [*Diffusion posterior sampling for simulation-based inference in tall data settings*](https://arxiv.org/abs/2404.07593), 2024.
+[3] Julia Linhart, Gabriel V. Cardoso, Alexandre Gramfort, Sylvain Le Corff and Pedro L. C. Rodrigues, [*Diffusion posterior sampling for simulation-based inference in tall data settings*](https://arxiv.org/abs/2404.07593), 2024.\
 [4] Julia Linhart, Pedro L. C. Rodrigues, Thomas Moreau, Gilles Louppe, Alexandre Gramfort,
 [*Neural Posterior Estimation of hierarchical models in neuroscience*](https://hal.science/hal-03858828/file/Gretsi_2022_HNPE.pdf), Colloque GRETSI 2022.
