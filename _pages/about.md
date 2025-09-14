@@ -25,7 +25,7 @@ My research focuses on **probabilistic machine learning**, **simulation-based in
 ## Research
 
 <!-- My research combines probabilistic machine learning and scientific applications, with a special focus on simulation-based inference and generative modeling.  -->
-The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) in **simulation-based inference** (SBI) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of inverting complex biophysical simulators - in neuroscience, astrophysics and beyond and build greater trust in deep generative models as tools to address important questions in experimental sciences. 
+The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) in **simulation-based inference** (SBI) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of inverting complex biophysical simulators - in neuroscience, astrophysics and beyond - and build greater trust in deep generative models as tools to address important questions in experimental sciences. 
 
 ### Current Directions
 Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned…
@@ -37,14 +37,13 @@ Scaling simulation-based inference for cosmology, while deepening my expertise i
 - Exploration of **novel posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) (LPSM - Sorbonne Université) and [Gabriel V. Cardoso](https://gabrielvc.github.io/) (CMAP - École Polytechnique). 
 <!-- Ongoing work with Marylou Gabrié and Louis Grenioux explores the use and combination of energy based models (EBMs) and normalizing flows for the sampling of highly structured posterior distributions. -->
 
-### Open Source & Community
-I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.
-
-
 ### Other 
 Before my PhD, I had the chance to work more closely on ML applications in **Medical Imaging** at two different start-ups, [Covera Health](https://www.coverahealth.com/) in New York (uncertainty quantification of Deep Learning models on MRIs) and [Owkin](https://www.owkin.com/) in Paris (development of Deep Learning models for breast cancer survival analysis on histology images and their calibration).
 
-### CV
+## Open Source 
+I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.
+
+## CV
 
 Here is [my CV](/files/Research_CV_Linhart.pdf). For more details, feel free to contact me at julia.linhart@nyu.edu :)
 
