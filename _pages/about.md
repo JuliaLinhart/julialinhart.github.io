@@ -9,7 +9,11 @@ redirect_from:
 
 Hello!
 
-I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (NYU, Flatiron Institute, Polymathic AI), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). I completed my PhD within the [MIND team](https://team.inria.fr/mind/) (former [Parietal](https://team.inria.fr/parietal/)) at INRIA / Université Paris-Saclay, under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/). My research focuses on probabilistic machine learning, simulation-based inference and generative modeling, with applications in neuroscience, cosmology, and beyond. I am most excited about how AI can transform the way we do science.
+I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (NYU / Flatiron Institute / Polymathic AI), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
+
+I completed my PhD at Inria ([MIND Team](https://team.inria.fr/mind/)) / Université Paris-Saclay under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) (Meta, Paris) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/) (Inria, Grenoble). 
+
+My research focuses on probabilistic machine learning, simulation-based inference and generative modeling, with applications in neuroscience, cosmology, and beyond. I am most excited about how AI can transform the way we do science.
 
 ## News
 
@@ -22,19 +26,21 @@ I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shi
 ## Research
 
 <!-- My research combines probabilistic machine learning and scientific applications, with a special focus on simulation-based inference and generative modeling.  -->
-The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) to address **likelihood-free Bayesian inference** (a.k.a. [SBI](https://arxiv.org/abs/1911.01429)) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of efficiently inverting complex scientific simulators (e.g. from computational neuroscience or astrophysics). More generally, I wish to lift the remaining lack of trust for deep generative models to address important questions in experimental sciences. 
+The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) to address **simulation-based inference** (SBI - a.k.a. likelihood-free Bayesian inference) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of efficiently inverting complex scientific simulators (e.g. from computational neuroscience or astrophysics). More generally, I wish to lift the remaining lack of trust for deep generative models to address important questions in experimental sciences. 
 
 ### Current Directions
-My postdoc aims at scaling simulation-based inference for cosmology, in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. More to come!
+My postdoc aims at scaling simulation-based inference for cosmology, in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. 
 
-## Main PhD projects
+More to come!
+
+### Main PhD projects
 
 - Development of **new validation diagnostics for conditional deep generative models** [1, 2], with an integration to the official [`sbi`](https://github.com/sbi-dev/sbi) python package from the [MACKELAB](https://www.mackelab.org/).
 <!-- - A benchmark initiative for SBI algorithms in collaboration with the [MACKELAB](https://www.mackelab.org/) and Thomas Moreau. It combins the `sbibm` and `benchopt` packages, with the goal of standardized and maintained SBI methods, and an easy to use benchmark framework with open source code and reproducible results.-->
 - Exploration of **novel posterior sampling algorithms using deep generative models**, for example based on diffusion models when one wishes to condition on multiple observations to get more precise parameter estimations [3]. This is collaborative work with [Sylvain Le Corff](https://sylvainlc.github.io/) (LPSM - Sorbonne Université) and [Gabriel V. Cardoso](https://gabrielvc.github.io/) (CMAP - École Polytechnique). 
 <!-- Ongoing work with Marylou Gabrié and Louis Grenioux explores the use and combination of energy based models (EBMs) and normalizing flows for the sampling of highly structured posterior distributions. -->
 
-## Open Source & Community
+### Open Source & Community
 I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.
 
 
