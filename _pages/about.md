@@ -12,7 +12,7 @@ Hello!
 I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (Flatiron Institute, NYU), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
 I completed my PhD at Inria ([MIND Team](https://team.inria.fr/mind/)), Université Paris-Saclay under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) (Meta) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/) (Inria, Grenoble). 
 
-My research focuses on probabilistic machine learning, simulation-based inference and generative modeling, with applications in neuroscience, cosmology, and beyond. I am most excited about how AI can transform the way we do science.
+My research focuses on **probabilistic machine learning**, **simulation-based inference** and **generative modeling**, with applications in neuroscience, cosmology, and beyond. I am most excited about how AI can transform the way we do science.
 
 ## News
 
@@ -28,7 +28,7 @@ My research focuses on probabilistic machine learning, simulation-based inferenc
 The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) to address **simulation-based inference** (SBI) tasks and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of efficiently inverting complex scientific simulators (e.g. from computational neuroscience or astrophysics). More generally, I wish to lift the remaining lack of trust for deep generative models to address important questions in experimental sciences. 
 
 ### Current Directions
-Scaling simulation-based inference for cosmology in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned...!
+Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned…
 
 ### Main PhD projects
 
@@ -41,10 +41,9 @@ Scaling simulation-based inference for cosmology in close collaboration with col
 I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.
 
 
-### Other 
+### Other & CV
 Before my PhD, I had the chance to work more closely on ML applications in **Medical Imaging** at two different start-ups, [Covera Health](https://www.coverahealth.com/) in New York (uncertainty quantification of Deep Learning models on MRIs) and [Owkin](https://www.owkin.com/) in Paris (development of Deep Learning models for breast cancer survival analysis on histology images and their calibration).
 
-I am particularly interested in expanding my expertise on generative models and gaining a more profound understanding of their workings, my motivation being a mix of pure curiosity and the goal of applying them to aid experimental sciences accross various biophysical fields.
 
 Here is [my CV](/files/Research_CV_Linhart.pdf). For more details, feel free to contact me at julia.linhart@inria.fr .
 
