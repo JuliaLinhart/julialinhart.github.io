@@ -25,7 +25,7 @@ My research focuses on **probabilistic machine learning**, **simulation-based in
 ## Research
 
 <!-- My research combines probabilistic machine learning and scientific applications, with a special focus on simulation-based inference and generative modeling.  -->
-The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) in **simulation-based inference** (SBI) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of efficiently inverting complex scientific simulators (e.g. from computational neuroscience or astrophysics). More generally, I wish to lift the remaining lack of trust for deep generative models to address important questions in experimental sciences. 
+The primary focus of my research has been on the use of **deep generative models** (in particular normalizing flows and diffusion models) in **simulation-based inference** (SBI) and their **validation** in terms of accuracy, efficiency and reliability. This work is motivated by the goal of inverting complex biophysical simulators - in neuroscience, astrophysics and beyond and build greater trust in deep generative models as tools to address important questions in experimental sciences. 
 
 ### Current Directions
 Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at NYU CDS, the Flatiron Institute / Polymathic AI, and UC Berkeley. Stay tuned…
