@@ -15,9 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-https://arxiv.org/abs/2508.12939
-
 **Diffusion posterior sampling for simulation-based inference in tall data settings**\
 Julia Linhart, Gabriel Victorino Cardoso, Alexandre Gramfort, Sylvain Le Corff, Pedro L. C. Rodrigues\
 *Preprint 2024.*\
