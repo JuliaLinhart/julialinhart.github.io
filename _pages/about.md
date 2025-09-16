@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!
 
-I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (NYU - Flatiron Institute), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
+I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), [Shirley Ho](https://www.shirleyho.space/) (NYU - Flatiron Institute), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
 I completed my PhD at Inria ([MIND Team](https://team.inria.fr/mind/)), Université Paris-Saclay under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) (Meta) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/) (Inria, Grenoble). 
 
 My research focuses on **probabilistic machine learning**, **simulation-based inference** and **generative modeling**, with applications in neuroscience, cosmology, and beyond. 
