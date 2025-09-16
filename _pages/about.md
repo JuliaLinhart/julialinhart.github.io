@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!
 
-I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (Flatiron Institute, NYU), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
+I am a Postdoctoral Researcher at NYU Center for Data Science, working with [Shirley Ho](https://www.shirleyho.space/) (NYU - Flatiron Institute), [Julia Kempe](https://cims.nyu.edu/~kempe/) (NYU), and [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) (UC Berkeley). 
 I completed my PhD at Inria ([MIND Team](https://team.inria.fr/mind/)), Université Paris-Saclay under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) (Meta) and [Pedro L. C. Rodrigues](https://plcrodrigues.github.io/) (Inria, Grenoble). 
 
 My research focuses on **probabilistic machine learning**, **simulation-based inference** and **generative modeling**, with applications in neuroscience, cosmology, and beyond. 
@@ -41,9 +41,9 @@ Scaling simulation-based inference for cosmology, while deepening my expertise i
 - Application of SBI to neuroscience time series (EEG) data [4].
 
 ### Other 
-Before my PhD, I had the chance to work more closely on ML applications in **Medical Imaging** at two different start-ups:
-- [Covera Health](https://www.coverahealth.com/) in New York - **Uncertainty quantification** of Deep Learning models on MRIs - and 
-- [Owkin](https://www.owkin.com/) in Paris - **Development and calibration** of Deep Learning models for breast cancer survival analysis on histology images.
+Before my PhD, I had the chance to work more closely on ML applications in *Medical Imaging* at two different start-ups:
+- [Covera Health](https://www.coverahealth.com/) (New York) - **uncertainty quantification of deep classification models** on MRIs - and 
+- [Owkin](https://www.owkin.com/) (Paris) - **development and calibration of deep survival models** for breast cancer prognosis on histology images.
 
 ## Open Source 
 I am an active contributor to the [`sbi`](https://github.com/sbi-dev/sbi) Python toolbox.

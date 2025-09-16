@@ -24,9 +24,9 @@ author:
   avatar           : "IMG_4565.JPG"
   name             : "Julia Linhart"
   pronouns         : # example: "she/her"
-  bio              : "Postoctoral Researcher at NYU Center for Data Science || AI4Science - probabilistic ML - generative models"
+  bio              : "Postoctoral Researcher at NYU Center for Data Science"
   location         : "New York, NY, USA"
-  employer         : "[NYU Center for Data Science](https://cds.nyu.edu/)"
+  employer         : "NYU Center for Data Science"
   uri              : # URL
   email            : "julia.linhart@nyu.edu"
 
