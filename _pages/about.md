@@ -18,11 +18,14 @@ I am most excited about how AI can transform the way we do science!
 
 ## News
 
-- Sept 2025: Started postdoc at NYU Center for Data Science.
+- Feb 2026: Paper [Diffusion Posterior Sampling for SBI in tall data settings](https://openreview.net/forum?id=cdhfoS6Gyo) accepted at TMLR and awarded with the Journal-to-Conference (J2C) Certification. Will be presented at ICML 2026! 
 
-- August 2025: New tutorial paper on Simulation-Based Inference out with Max Planck collaborators. [link to paper](https://arxiv.org/abs/2508.12939)
+- Sep 2025: Started postdoc at NYU Center for Data Science (+ Guest Researcher at the Flatiron Institute).
+  
+- Aug 2025: New tutorial paper on Simulation-Based Inference is out:  [link to paper](https://arxiv.org/abs/2508.12939). <br>
+  ~ *In collaboration with the Max Planck Institute / University of Tübingen and other main contributors to the [`sbi`](https://github.com/sbi-dev/sbi) Python package.*
 
-- Dec 2024: Successfully defended my PhD at Inria Saclay. [link to video](https://www.youtube.com/watch?v=he1HbmhwGCw)
+- Dec 2024: Successfully defended my PhD at Inria Saclay: [link to thesis](https://theses.hal.science/tel-04920410), [link to video](https://www.youtube.com/watch?v=he1HbmhwGCw).
 
 ## Research
 
@@ -30,7 +33,7 @@ I am most excited about how AI can transform the way we do science!
 The primary focus of my research has been on the use of **deep generative models** (normalizing flows and diffusion models) in **simulation-based inference** (SBI). The goal is to develop methods for more accuracte, efficient and reliabile inference on complex biophysical simulators - in neuroscience, astrophysics and beyond. Ultimately, my research seeks to build greater trust in AI as a tool for scientific discovery. 
 
 ### Current Directions
-Scaling simulation-based inference for cosmology, while deepening my expertise in generative models and theoretical machine learning. This work is in close collaboration with colleagues at [NYU Center for Data Science](https://cds.nyu.edu/), the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) / [Polymathic AI](https://polymathic-ai.org/), and [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/). **Stay tuned…**
+Scaling simulation-based inference for cosmology, while deepening my expertise in deep generative models and exploring other machine learning methods (e.g. RL... no other choice). This work is in close collaboration with colleagues at [NYU Center for Data Science](https://cds.nyu.edu/), the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) / [Polymathic AI](https://polymathic-ai.org/), and [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/). **Stay tuned…**
 
 ### Main PhD projects
 
